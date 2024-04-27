@@ -22,6 +22,18 @@ Point of Sales (POS) are an essential part of the food truck business. Here are 
 5. Build a customer database for marketing by providing customer with a way to enter emails and phone numbers for direct marketing and texting campaigns.
 
 ## Results
-1. Create an empty list
+
+### Order System: 
+Orders_list was created to store list of dictionaries for menu item name, item price, and quantity. Starter code with while loops, for loops, and if-else statements provided to print menu_items dictionary (A dict of the key:value pairs for menu item numbers 1-4 and the corresponding menu categories: Snacks, Meals, Drinks, Desserts), prompt customer to order from menu_items, check to ensure customer order for menu_category is a integer and valid option in menu_items dict, print the menu category name associated with menu item number selected, prints menu_category_name options from sub-level menu_items dict.
+2-3. Prompted user to input menu item number from the menu_items dict, store input as menu_selection, check to ensure customer menu_selection is a integer and valid option in menu_items dict.
+4. Item name stored as variable menu_item_name. Prompt customer to enter the quantity of menu_item_name and save input to variable quantity. Input for quantity checked to ensure was integer. Customer's order appended to empty order_list dictionary with the following key: "Item name", "Price", and "Quantity".
+5. While loop created to prompt customer to enter "y" or "n" regarding whether they want to continue ordering, with match:case statements created to check for "y" to set the place_order variable to True and break from the "keep ordeing question" loop, check for "n" to set place_order variable to False to print "Thank You for your order" and break from the continuous while loop, or default and tell customer to try again because they didn't type a valid input
+3. Order_list created as an empty list to store customer's order in dictionary format called "order_list"
+ - Menu_Selections
+ - menu_items
+
+In the 1st level dictionary, menu_item_number is key to menu_categories
+
+Sub-menu (i.e. menu_items list) is equal to: Snack, Meals, Drinks, Dessert. User prompted to enter selection (i.e. menu_selection) from menu_items list by entering the menu_number corres Always checking to make sure user input is a number.
 
 [^1]: https://www.appstar.net/5-reasons-every-food-truck-needs-a-pos-system/
