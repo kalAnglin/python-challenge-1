@@ -1,6 +1,6 @@
 # Python-Challenge-1
 
-I worked with tutor Mohammed Fauwaaz in a Tutor Session on BSC to complete this assignment.
+I worked with ChatGPT and tutor Mohammed Fauwaaz in a Tutor Session on BSC to complete this assignment.
 
 ## Overview
 Use the starter code provided for printing a menu for the customer, create an ordering system to allow the customer to place an order, store the order and printing the receipt with the total price of all items ordered.
