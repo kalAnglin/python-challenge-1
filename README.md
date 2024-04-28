@@ -10,7 +10,7 @@ Utilize print statements, loops, dictionaries, lists, list comprehension and if-
 
 ## Business Advantage [^1]
 
-![Food_Truck_POS](images/Food_Truck_POS.jpeg)
+![POS](images/POS.png)
 
 In order to meet to demand of customer on-the-go, the food truck business requires vendors to mobile, prepared, and organized to order to maximize opportunities and sales. A big part of this involves have a POS system that allows customers to place orders, pay, and receive a receipt. This kind of system is need to run and grow and food truck business.
 
