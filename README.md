@@ -3,9 +3,10 @@
 I worked with tutor Mohammed Fauwaaz in a Tutor Session on BSC to complete this assignment.
 
 ## Overview
-Using the starter code provided for printing a menu for the customer, create an ordering system to allow the customer to place an order, store the order and printing the receipt with the total price of all items ordered.
+Use the starter code provided for printing a menu for the customer, create an ordering system to allow the customer to place an order, store the order and printing the receipt with the total price of all items ordered.
 
 ## Purpose
+Utilize print statements, loops, dictionaries, lists, list comprehension and if-else statements to navigate through the menue options, storing menu, and calculate the total order price.
 
 ## Business Advantage [^1]
 
@@ -34,6 +35,6 @@ Point of Sales (POS) are an essential part of the food truck business. Here are 
 - Total price of order calculated and displayed to customer, once loop is exited, by getting the sum() of a list comprehension used to multiply the price by the quantity for every item in the order list. (11)
 
 ## Recommendations
-
+Application should also prompt user to enter email and phone number to build a customer database for direct marketing, texting campaigns, social medica engagements, and rewards or loyalty programs.
 
 [^1]: https://www.appstar.net/5-reasons-every-food-truck-needs-a-pos-system/
